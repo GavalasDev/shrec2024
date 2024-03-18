@@ -1,0 +1,8 @@
+# open3d==0.18.0
+# optuna==3.5.0
+
+hmmlearn==0.3.0
+numpy==1.26.4
+seaborn==0.13.2
+pandas==2.2.0
+matplotlib==3.8.3
